@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e6b9fec891ee0245b989c8a18faaa0c, type: 3}
+  m_Name: Scene 3 Start
+  m_EditorClassIdentifier: 
+  storyText: I had a lot of fun making this game. I appreciate it so much that you
+    played my game and made it this far
+  nextState:
+  - {fileID: 11400000, guid: bed9c9261e001fa47a29b8570394008d, type: 2}

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 35444a4a133771a4c8b81ae2ebb3095a
+  - enabled: 1
+    path: Assets/Scenes/About Scene.unity
+    guid: 83ca479924716814d848c4ce283eef2f
+  - enabled: 1
+    path: Assets/Scenes/Instruction Scene.unity
+    guid: 3ca3da5626511ce4cbb7d2aab1437db8
+  - enabled: 1
+    path: Assets/Scenes/Levels Scene.unity
+    guid: 1f0c758834ea8604cbe5272c2d3f635c
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 7e4b23769b9cb09459b979c2f6e85ae2
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 33155c6f25dba4341960c5d2eb85d940
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 071e2927498a25441bfecde121e02107
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 7f0f55dbdbf703c4ab1703f2e7e896f8
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: eb5ea6db2c2cddd4d930e75fff4126ef
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 7505cbfdaa358f244a2fbc8b0f0a67d3
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: aef43b163ed9de441b318c51f97a3bd0
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: 4e3c5537a63afe0468b234000e06bfc6
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 98dac0070a0957c4ca63d904740ee774
+  - enabled: 1
+    path: Assets/Scenes/Level 10.unity
+    guid: 9d19a4a27693708458def9edabe8cf5f
+  - enabled: 1
+    path: Assets/Scenes/Level 11.unity
+    guid: 1acd35f379bf95d4c859ccfb0d5244bb
+  - enabled: 1
+    path: Assets/Scenes/Level 12.unity
+    guid: 5d09a7f896422164d9c7941d8fe7cbef
+  - enabled: 1
+    path: Assets/Scenes/Level 13.unity
+    guid: ac37391d717b8224da0117f2cc894fa1
+  - enabled: 1
+    path: Assets/Scenes/Level 14.unity
+    guid: f4f788f39e9ac424f9f3b6e650c4033f
+  - enabled: 1
+    path: Assets/Scenes/Level 15.unity
+    guid: d04801aec8c36934888aa0fa1b17b2c0
+  - enabled: 1
+    path: Assets/Scenes/END CREDIT.unity
+    guid: 3285ee08e4c270a45b442c0d35985346
+  - enabled: 1
+    path: Assets/Scenes/END CREDIT 1.unity
+    guid: 1671c54498cdb8840a5c46314b4a4d89
+  - enabled: 1
+    path: Assets/Scenes/END CREDIT 2.unity
+    guid: 6183e0edd9555674daabc58531f40c7d
+  - enabled: 1
+    path: Assets/Scenes/END CREDIT 3.unity
+    guid: 383f3e5e39c48944ca44210e58659156
+  - enabled: 1
+    path: Assets/Scenes/End Game.unity
+    guid: 18d09062fd2ca0845b5cc864299e8909
+  - enabled: 1
+    path: Assets/Scenes/Additional Levels Scene.unity
+    guid: 723128f4d50b81f4998cfb8558ed7d13
+  m_configObjects: {}
