@@ -254,7 +254,6 @@ RectTransform:
   - {fileID: 1533524963}
   - {fileID: 1122581999}
   - {fileID: 883495106}
-  - {fileID: 721392537}
   m_Father: {fileID: 83713251}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -287,30 +286,31 @@ MonoBehaviour:
 
 
     1.
-    Press left mouse button          to shoot the ball and F to use the recall system.
+    Press the shoot button to shoot the ball and Recall button to use the recall
+    system.
 
 
-    2.
-    you have 3 lives           in every level. If your ball falls in the void you
-    loose one heart
+    2. you have 3 lives           in every level. If your ball falls
+    in the void you loose one heart
 
 
-    3. Recall System         : By pressing " F " you can use
-    recall system if you dont like the ball speed or your ball is stuck somewhere.
-    you can also save your ball from falling in the void using this system. by using
-    this system The ball will return to it''s paddle. you can use this system up
-    to 3         times in a level.
+    3. Recall System         : By pressing
+    the Recall Button you can use recall system if you dont like the ball speed or
+    your ball is stuck somewhere. you can also save your ball from falling in the
+    void using this system. by using this system The ball will return to it''s paddle.
+    you can use this system up to 3         times in a level.
 
 
-    4. There are few types of blocks. Some require
-    a single hit. Some requires multiple hits
+    4. There are
+    few types of blocks. Some require a single hit. Some requires multiple hits
 
 
-    try to learn the ball machanics.
-    Some levels might be a bit challanging. DOnt give up. Come to main menu and start
-    the level again
+    try
+    to learn the ball machanics. Some levels might be a bit challanging. DOnt give
+    up. Come to main menu and start the level again
 
-    And be sure to finsih the last level for a surprise!
+    And be sure to finsih the
+    last level for a surprise!
 
 '
   m_isRightToLeft: 0
@@ -900,80 +900,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &721392536
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 721392537}
-  - component: {fileID: 721392539}
-  - component: {fileID: 721392538}
-  m_Layer: 0
-  m_Name: Image (3)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &721392537
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 721392536}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 124083926}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -378, y: 278}
-  m_SizeDelta: {x: 46.49716, y: 64.9348}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &721392538
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 721392536}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 33b8ad322645df84088875232f32f674, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &721392539
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 721392536}
-  m_CullTransparentMesh: 0
 --- !u!1001 &794619214
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1210,7 +1136,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -152, y: 83}
+  m_AnchoredPosition: {x: -75, y: 83}
   m_SizeDelta: {x: 45.96245, y: 43.5177}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &883495107
@@ -1358,7 +1284,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -457, y: -175}
+  m_AnchoredPosition: {x: -463, y: -175}
   m_SizeDelta: {x: 40.439514, y: 40.439514}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1533524964
